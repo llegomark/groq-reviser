@@ -1,0 +1,8 @@
+{
+    "groq_api_key_1": "your-groq-api-key-1",
+    "groq_api_key_2": "your-groq-api-key-2",
+    "groq_api_key_3": "your-groq-api-key-3",
+    "reviser_model": "your-reviser-model",
+    "writer_model": "your-writer-model",
+    "reviser_system_prompt": "your-reviser-system-prompt"
+}
