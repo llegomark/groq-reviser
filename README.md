@@ -1,6 +1,6 @@
 # Groq Reviser
 
-Groq Reviser is a Python script that automates the process of revising and expanding articles using the Groq API and the powerful Llama 3 models. The choice of Groq and Llama 3 models for article revision is driven by their exceptional inference speed, as highlighted in this [tweet](https://x.com/sundeep/status/1795886302153580567) by Sundeep Nayak. The Llama 3 models provide a perfect balance between quality and efficiency, enabling quick and accurate revisions of articles.
+Groq Reviser is a Python script that automates the process of revising and expanding articles using the Groq API and the powerful Llama 3 models. The choice of Groq and Llama 3 models for article revision is driven by their exceptional inference speed, as highlighted in this [tweet](https://x.com/sundeep/status/1795886302153580567) by Sunny Madra. The Llama 3 models provide a perfect balance between quality and efficiency, enabling quick and accurate revisions of articles.
 
 The script takes Markdown files containing articles from a specified folder, sends them to the Groq API for revision and expansion using the Llama 3 models, and saves the revised articles along with the original articles in a new Markdown file. By leveraging the capabilities of Groq and Llama 3 models, Groq Reviser ensures high-quality article revisions while maintaining optimal performance.
 
@@ -31,7 +31,7 @@ Before running the Groq Reviser script, ensure that you have the following:
 
 - Python 3.x installed on your system
 - Required Python packages listed in the `requirements.txt` file
-- Groq API keys obtained from the Groq console
+- Groq API keys obtained from the [Groq console](https://console.groq.com/keys)
 - Markdown files containing articles to be revised placed in the `groq-article` folder
 
 ## Installation
